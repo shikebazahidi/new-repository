@@ -1,0 +1,11 @@
+.bu:hover{
+    background-color: aquamarine;
+    color: black;
+}
+.bu{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 3px;
+}
